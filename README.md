@@ -25,4 +25,5 @@ all threads in thread pool listens blocking queue and consume that tasks one thr
 ##### applyTasks takes consumer of task not a whole blocking queue
 
 ## Phase3
-Demo of consumetasks with observables and with completablefuture 
+Demo of applyTasks deals with observables and with completablefuture 
+to be applied in the project

@@ -24,3 +24,5 @@ producer puts tasks in blocking queue
 all threads in thread pool listens blocking queue and consume that tasks one thread for each task
 ##### applyTasks takes consumer of task not a whole blocking queue
 
+## Phase3
+Demo of consumetasks with observables and with completablefuture 
